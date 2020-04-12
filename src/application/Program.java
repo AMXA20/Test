@@ -19,6 +19,7 @@ public class Program {
 		// PART 1 - READING DATA:
 		
 		System.out.print("How many employees will be registered? ");
+		System.out.println("Teste");
 		int n = sc.nextInt();
 		
 		for (int i=1; i<=n; i++) {
